@@ -6,5 +6,5 @@ I researched and collected a large amount of resources from many websites and so
 The resources are of various types like sprite sheets, audios, fonts, etc. 
 
 Here are two websites that contain many game sprites and other resources: 
-- [https://www.spriters-resource.com/]([url](https://www.spriters-resource.com/))
-- [https://spritedatabase.net/]([url](https://spritedatabase.net/))
+- Spriters Resource [Link](https://www.spriters-resource.com/)
+- Sprite Database [Link](https://spritedatabase.net/)
